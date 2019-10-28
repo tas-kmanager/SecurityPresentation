@@ -1,5 +1,6 @@
-# Full Reference Document 
-## From Unveilling the Not-PowerShell Cult Presentation
+# Reference Document 
+From Unveilling the Not-PowerShell Cult Presentation
+
 
 
 ## Not-PowerShell Tools
