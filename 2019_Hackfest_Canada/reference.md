@@ -1,13 +1,13 @@
-#Full Reference Document 
-##From Unveilling the Not-PowerShell Cult Presentation
+# Full Reference Document 
+## From Unveilling the Not-PowerShell Cult Presentation
 
 
-##Not-PowerShell Tools
+## Not-PowerShell Tools
 
-###InvisiShell
+### InvisiShell
 
-###PowerShDLL
+### PowerShDLL
 
-###PowerLessShell
+### PowerLessShell
 
-###NoPowerShell
+### NoPowerShell
