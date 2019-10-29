@@ -1,2 +1,2 @@
-# SecurityPresentation
-Resources from the Security Presentation
+# Security Presentation
+Resources from the security presentations I gave
