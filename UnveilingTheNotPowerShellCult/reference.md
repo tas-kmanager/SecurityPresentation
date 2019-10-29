@@ -25,6 +25,13 @@ From Unveilling the Not-PowerShell Cult Presentation
 * F-Secure: Detecting Malicious .NET Part 1 - https://blog.f-secure.com/detecting-malicious-use-of-net-part-1/
 * F-Secure: Detecting Malicious .NET Part 2 - https://blog.f-secure.com/detecting-malicious-use-of-net-part-2/
 
+### PowerLine
+
+* Github: PowerLine - https://github.com/fullmetalcache/PowerLine
+
+### SharpPick
+
+* Github: SharpPick - https://github.com/TheKevinWang/SharpPick
 
 ## Logging Tools
 
