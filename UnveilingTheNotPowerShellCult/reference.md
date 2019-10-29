@@ -50,7 +50,7 @@ From Unveilling the Not-PowerShell Cult Presentation
 
 ### General Usage
 
-* DarkOperator: PowerShell Basic - https://github.com/nettitude/Invoke-PowerThIEf
+* DarkOperator: PowerShell Basic - https://www.darkoperator.com/powershellbasics
 
 ### Blue Team Usage 
 
