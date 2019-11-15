@@ -55,3 +55,5 @@ netstat -ano
 get-content C:\WINDOWS\System32\drivers\etc\hosts
 # Network Interface configuration
 netsh dump
+# Get cached credentials
+cmdkey /list
