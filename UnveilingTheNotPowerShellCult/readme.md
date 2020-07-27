@@ -1,8 +1,7 @@
+These folder is created for presentation at Hackfest 2019
+
 #TO DO
 
 * ~~Upload Presentation Deck~~
 * ~~Create Reference Markdown~~
-* Create Sigma Rules Folder
-* Upload Sigma Rules
-* Create Memes Folder
-* Upload Memes
+
